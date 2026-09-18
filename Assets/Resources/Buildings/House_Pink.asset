@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0c85083d0f25184e9e9ee1cd1dfb3a4, type: 3}
+  m_Name: House_Pink
+  m_EditorClassIdentifier: 
+  buildingName: House_Pink
+  type: 0
+  icon: {fileID: -1589721605, guid: 3957af6f9463e57409d437c747a19181, type: 3}
+  cost: 120
+  upgradeCost: 60
+  incomePerTick: 6
+  populationBonus: 4
+  happinessBonus: 3
+  size: {x: 1, y: 1}
+  maxLevel: 3

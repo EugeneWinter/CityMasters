@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 190a1ba21fbd37c439363da211a62d58, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  startGold: 500
+  startPopulation: 5
+  startHappiness: 50
+  tickInterval: 3
+  taxPerCitizen: 1
+  winPopulation: 50
+  winGold: 2000
+  winHappiness: 70
+  loseHappiness: 10
+  loseGoldBelow: -200
